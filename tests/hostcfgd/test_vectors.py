@@ -1186,7 +1186,9 @@ HOSTCFG_DAEMON_INIT_CFG_DB = {
         }
     },
     "MGMT_INTERFACE": {},
-    "MGMT_VRF_CONFIG": {}
+    "MGMT_VRF_CONFIG": {},
+    "SYSLOG_CONFIG": {},
+    "SYSLOG_SERVER": {}
 }
 
 
